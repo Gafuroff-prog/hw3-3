@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+th{
+    padding:5px;
+}
+
+table{
+    width:500px;
+}
+
+.begin{
+    width:50px;
+}
+
+.end{
+    width:50px;
+}
+#a{
+    background-color: rgba(255, 255, 0, 0.377);
+}
+#p{
+    background-color: rgba(0, 110, 255, 0.658);
+}
+#c{
+    background-color: rgba(0, 128, 0, 0.363);
+}
